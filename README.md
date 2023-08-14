@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Nextjs and AI**
 
-- 👨‍💻 All of my projects are available at [anurag-portfolio-013055.netlify.app](https://anurag-portfolio-013055.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://anurag-portfolio-013055.netlify.app/](https://anurag-portfolio-013055.netlify.app/)
 
 - 💬 Ask me about **React,Vue and javascript**
 
