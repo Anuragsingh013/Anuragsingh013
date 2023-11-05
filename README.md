@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Anurag singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img  align="right" alt="coding" width="400" src ="https://www.nicepng.com/png/full/804-8049853_med-boukrima-specialist-webmaster-php-e-commerce-web.png">
+<!--  <img  align="right" alt="coding" width="400" src =""> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragsingh013&label=Profile%20views&color=0e75b6&style=flat" alt="anuragsingh013" /> </p>
 
