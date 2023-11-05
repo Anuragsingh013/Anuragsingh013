@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Anurag singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif ">
+<img  align="right" alt="coding" width="400" src ="https://www.nicepng.com/png/full/804-8049853_med-boukrima-specialist-webmaster-php-e-commerce-web.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragsingh013&label=Profile%20views&color=0e75b6&style=flat" alt="anuragsingh013" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Nextjs and AI**
 
-- 👨‍💻 All of my projects are available at [https://anurag-portfolio-013055.netlify.app/](https://anurag-portfolio-013055.netlify.app/)
+- 👨‍💻 All of my projects are available at [Anurag portfolio](https://anurag-portfolio-2023.netlify.app/)
 
 - 💬 Ask me about **React,Vue and javascript**
 
