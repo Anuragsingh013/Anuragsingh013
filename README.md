@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Anurag singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
- <img  align="right" alt="coding" width="400" src ="https://camo.githubusercontent.com/d3a6726b2ce4283d4fd8ddcc317e8e7882067c013fa6ec16c96a991a50a78c74/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784f574e3062326c304e47686859325a755a476476616a466d616d746f5a325a3262573930635774314d58687165484d35636d6f7959695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f7167515567674143335066763638377150432f67697068792e676966"> 
+ <img  align="right" alt="coding" width="400" src ="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragsingh013&label=Profile%20views&color=0e75b6&style=flat" alt="anuragsingh013" /> </p>
 
