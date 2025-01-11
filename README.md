@@ -9,11 +9,12 @@
 
 <p align="left"> <a href="https://twitter.com/@anurag_singh_55" target="blank"><img src="https://img.shields.io/twitter/follow/@anurag_singh_55?logo=twitter&style=for-the-badge" alt="@anurag_singh_55" /></a> </p>
 
-- 🌱 I’m currently learning **Nextjs and AI**
+- 🌱 I’m currently making Project using  **React Native with Typescript**
 
-- 👨‍💻 All of my projects are available at [Anurag portfolio](https://anurag-portfolio-2023.netlify.app/)
+- 👨‍💻 All of my projects are available at [Anurag portfolio](https://anurag-portfolio2024.netlify.app/)
+- 👨‍💻 Old Portfolio Website at [Anurag old portfolio](https://anurag-portfolio-2023.netlify.app/)
 
-- 💬 Ask me about **React,Vue and javascript**
+- 💬 Ask me about **React,React Native and javascript**
 
 - 📫 How to reach me **thakuranuragsingh099@gmail.com**
 
